@@ -1,6 +1,6 @@
 /**
  * @see: [[Tópico:Wikilivros:Diálogos comunitários/Aprimorando o Criador de livros]]
- * @traking: [[Special:GlobalUsage/User:Helder.wiki/Tools/EnhancedBookCreator.js]] ([[File:User:Helder.wiki/Tools/EnhancedBookCreator.js]])
+ * @tracking: [[Special:GlobalUsage/User:Helder.wiki/Tools/EnhancedBookCreator.js]] ([[File:User:Helder.wiki/Tools/EnhancedBookCreator.js]])
  */
 document.getElementById( 'book-creator-normal' ).style.display = 'none';
 var aqui = document.getElementById( 'book-creator-melhorado' );
